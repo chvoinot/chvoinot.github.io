@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Charlotte Voinot"
-  avatar           : "/assets/images/Profil.PNG"
+  avatar           : #"/assets/images/Profil.PNG"
   bio              : "1rst year PhD CIFRE INRIA/SANOFI"
   location         : "Paris / Montpellier"
   email            :
