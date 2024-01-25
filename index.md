@@ -1,12 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: "Charlotte Voinot"
+title: "Hello, Welcome on my website ! "
 header:
   overlay_image: #/assets/images/ardon.jpg
 ---
-
-Hello and welcome on my website ! 
 
 I am Charlotte Voinot, first year PhD student at [INRIA](https://www.inria.fr/en) in [Premedical Team](https://team.inria.fr/premedical/) and at [Sanofi R&D, Data and Data science](https://www.sanofi.com/en) .
 
