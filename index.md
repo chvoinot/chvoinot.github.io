@@ -18,7 +18,8 @@ Feel free to explore these pages to find out more about my background, skills an
 
 ##### News
 
-- Released slides on introduction to multi-state analysis
+- Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model 
+- Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis 
 
 ##### Education 
 
