@@ -10,4 +10,4 @@ title: "Presentations"
 [Notebook](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Survival%20presentation/Survival_analysis.html)
 
 - *Introduction on multi-state survival analysis*, January 25th, 2024.
-[Slide](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Multi-state%20survival%20presentation/presentation.html)
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Multi-state%20survival%20presentation/presentation.html)
