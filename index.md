@@ -8,7 +8,7 @@ header:
 
 Hello and welcome on my website ! 
 
-I am Charlotte Voinot, first year PhD student at [INRIA](https://www.inria.fr/en) in [Premedical Team](https://team.inria.fr/premedical/) (France in Montpellier (34)) and at [Sanofi R&D](https://www.sanofi.com/en) (France in Gentilly (94)).
+I am Charlotte Voinot, first year PhD student at [INRIA](https://www.inria.fr/en) in [Premedical Team](https://team.inria.fr/premedical/) and at [Sanofi R&D Data and Data science](https://www.sanofi.com/en) .
 
 I am supervised by [Dr Julie Josse](http://juliejosse.com/), from INRIA, and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) from 'Data, Data Science' department of Sanofi R&D.
 
