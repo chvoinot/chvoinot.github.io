@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "PhD CIFRE INRIA/SANOFI"
 title_separator          : "/"
-subtitle                 : "Charlotte Voinot"
+subtitle                 : #"Charlotte Voinot"
 name                     : "Charlotte Voinot"
 description              : "An amazing website."
 url                      : "https://chvoinot.github.io"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Charlotte Voinot"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Profil.png"
   bio              : "1rst year PhD CIFRE INRIA/SANOFI"
   location         : "Paris / Montpellier"
   email            :
