@@ -20,12 +20,12 @@ title                    : "PhD CIFRE INRIA/SANOFI"
 title_separator          : "/"
 subtitle                 : #"Charlotte Voinot"
 name                     : "Charlotte Voinot"
-description              : "An amazing website."
+description              : "Welcome to my website"
 url                      : "https://chvoinot.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chvoinot/chvoinot.github.io"
-teaser                   : "/assets/images/Profil.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : #"/assets/images/Profil.png"
+logo                     : "/assets/images/Profil.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
