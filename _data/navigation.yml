@@ -1,9 +1,9 @@
 # main links
 main:
+- title: "Presentations"
+  url: /presentations/
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Presentations"
-     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
  #- title: "Sample Posts"
  #    url: /year-archive/
  #- title: "Sample Collections"
