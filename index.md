@@ -22,5 +22,7 @@ Feel free to explore these pages to find out more about my background, skills an
 
 ##### Education 
 
-I graduated from AgroParisTech in France and hold a dual degree in bioinformatics from Paris-Saclay University. 
+I graduated from AgroParisTech in France and hold a dual degree in bioinformatics from Paris-Saclay University.  
+
 I gained experience working as biostatistician in various companies for nearly 2 years before starting a PhD in April 2023.
+ 
