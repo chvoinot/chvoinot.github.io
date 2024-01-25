@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "charlotte.voinot@sanofi.com"
+      url: "mailto:charlotte.voinot_at_sanofi.com?body=Replace _at_ with @ in the recipient e-mail!"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,9 +125,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chvoinot"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/charlotte-voinot"
+    - label: "Resume"
+      icon: "fab fa-fw fa-envira"
+      url: "http://mzaffran.github.io/assets/files/CV_CharlotteV_2024_01.pdf"
 
 # Site Footer
 footer:
