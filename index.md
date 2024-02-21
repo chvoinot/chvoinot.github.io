@@ -18,8 +18,10 @@ Feel free to explore these pages to find out more about my background, skills an
 </span>
 
 <span style="font-family: Lato; font-size: 18px;">
+  
 - Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model  
 - Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis  
+  
 </span>
 
 <span style="font-family: 'EB Garamond'; font-size: 20px;">
