@@ -5,7 +5,7 @@ title: "Hello, Welcome on my website ! "
 header:
   overlay_image: #/assets/images/ardon.jpg
 ---
-
+<span style="font-family: Arial; font-size: 14px;">
 I am Charlotte Voinot, first year PhD student at [INRIA](https://www.inria.fr/en) in [Premedical Team](https://team.inria.fr/premedical/) and at [Sanofi R&D, Data and Data science](https://www.sanofi.com/en) .
 
 I am supervised by [Dr Julie Josse](http://juliejosse.com/), from INRIA, and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) from 'Data, Data Science' department of Sanofi R&D.
