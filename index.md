@@ -13,9 +13,9 @@ Feel free to explore these pages to find out more about my background, skills an
 </span>
 
 
-<span style="font-family: 'EB Garamond'; font-size: 20px;">
+
 ##### News
-</span>
+
 
 <span style="font-family: Lato; font-size: 18px;">
   
@@ -24,9 +24,9 @@ Feel free to explore these pages to find out more about my background, skills an
   
 </span>
 
-<span style="font-family: 'EB Garamond'; font-size: 20px;">
+
 ##### Education 
-</span>
+
 
 <span style="font-family: Lato; font-size: 18px;">
 I graduated from [AgroParisTech](https://www.agroparistech.fr/en) in France and hold a dual degree in [Bioinformatics at Paris-Saclay University](https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology).  
