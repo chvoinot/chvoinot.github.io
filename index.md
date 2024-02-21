@@ -16,13 +16,16 @@ Feel free to explore these pages to find out more about my background, skills an
 <span style="font-family: 'EB Garamond'; font-size: 20px;">
 ##### News
 </span>
+
 <span style="font-family: Lato; font-size: 18px;">
 - Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model  
 - Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis  
 </span>
+
 <span style="font-family: 'EB Garamond'; font-size: 20px;">
 ##### Education 
 </span>
+
 <span style="font-family: Lato; font-size: 18px;">
 I graduated from [AgroParisTech](https://www.agroparistech.fr/en) in France and hold a dual degree in [Bioinformatics at Paris-Saclay University](https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology).  
 I gained experience working as biostatistician in various companies for nearly 2 years before starting a PhD in April 2023.  
