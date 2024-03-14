@@ -22,12 +22,15 @@ I gained experience working as biostatistician in various C.R.O (Contract resear
 
 ##### News
 
+<span style="font-family: Lato; font-size: 18px;">
 - I presented an introduction presentation on causal inference at the Stat4Plant meeting in INRAE.
 - Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model  
 - Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis  
+</span>
 
 ##### Community 
 
+<span style="font-family: Lato; font-size: 18px;">
 Take a moment to explore the work of our team focused on causal inference and missing values at INRIA. This group is led by Julie Josse, who serves as the principal investigator of the PreMeDICaL team. You can find more information about our activities [here](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html).
-
+</span>
 
