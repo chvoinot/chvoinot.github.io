@@ -8,7 +8,7 @@ header:
 <span style="font-family: Lato; font-size: 18px;">
 I am Charlotte Voinot, first year PhD student at [INRIA](https://www.inria.fr/en) in [Premedical Team](https://team.inria.fr/premedical/) and at [Sanofi R&D, Data and Data science](https://www.sanofi.com/en).  
 I am supervised by [Dr Julie Josse](http://juliejosse.com/), from INRIA, and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) from 'Data, Data Science' department of Sanofi R&D.  
-My research project is on causal inference in the context of time to event/survival analysis for health-related topics. 
+My research project is on causal inference in the context of time to event/survival analysis for health-related topics.  
 Feel free to explore these pages to find out more about my background, skills and the projects I'm working on.  
 </span>
 
@@ -24,5 +24,5 @@ Feel free to explore these pages to find out more about my background, skills an
 
 <span style="font-family: Lato; font-size: 18px;">
 I graduated from [AgroParisTech](https://www.agroparistech.fr/en) in France and hold a dual degree in [Bioinformatics at Paris-Saclay University](https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology).  
-I gained experience working as biostatistician in various companies for nearly 2 years before starting a PhD in April 2023.  
+I gained experience working as biostatistician in various C.R.O (Contract research organization) companies that provides support to the pharmaceutical, biotechnology, and medical device industries for nearly 2 years before starting a PhD in April 2023.  
 </span>
