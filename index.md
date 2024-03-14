@@ -13,16 +13,21 @@ Feel free to explore these pages to find out more about my background, skills an
 </span>
 
 
-
-##### News
-
-- Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model  
-- Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis  
-  
 ##### Education 
-
 
 <span style="font-family: Lato; font-size: 18px;">
 I graduated from [AgroParisTech](https://www.agroparistech.fr/en) in France and hold a dual degree in [Bioinformatics at Paris-Saclay University](https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology).  
 I gained experience working as biostatistician in various C.R.O (Contract research organization) companies that provides support to the pharmaceutical, biotechnology, and medical device industries for nearly 2 years before starting a PhD in April 2023.  
 </span>
+
+##### News
+
+- I presented an introduction presentation on causal inference at the Stat4Plant meeting in INRAE.
+- Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model  
+- Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis  
+
+##### Community 
+
+Take a moment to explore the work of our team focused on causal inference and missing values at INRIA. This group is led by Julie Josse, who serves as the principal investigator of the PreMeDICaL team. You can find more information about our activities [here](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html).
+
+
