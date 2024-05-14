@@ -13,4 +13,4 @@ title: "Presentations"
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Multi-state%20survival%20presentation/presentation.html)
 
 - *Introduction on causal inference*, March 6th, 2024.
-[Slides](https://github.com/chvoinot/chvoinot.github.io/blob/master/assets/files/Talks/Causal_inference_INRAE.pdf)
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Causal_inference_INRAE.pdf)
