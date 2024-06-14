@@ -22,6 +22,7 @@ I gained experience working as biostatistician in various C.R.O (Contract resear
 
 ##### News
 
+- I presented part of my PhD project in JdS2024 ([powerpoint](https://chvoinot.github.io/presentations/))
 - I presented an introduction presentation on causal inference at the Stat4Plant meeting in INRAE.
 - Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model   
 - Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis
