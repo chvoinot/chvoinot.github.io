@@ -30,7 +30,7 @@ I gained experience working as biostatistician in various C.R.O (Contract resear
 
 ##### Community 
 - I am member of the Young Statisticians Group of the French Statistical Society (SFdS).
-We have organized the several events during JdS 2024 and we will organize soon the 13th Young Statisticians and Probabilists day.
+We have organized several events during JdS 2024 and we will organize soon the 13th Young Statisticians and Probabilists day.
 
 - Take a moment to explore the work of our team focused on causal inference and missing values at INRIA. This group is led by Julie Josse, who serves as the principal investigator of the PreMeDICaL team. You can find more information about our activities [here](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html).
 
