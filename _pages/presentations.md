@@ -12,8 +12,8 @@ title: "Presentations"
 - *Introduction on multi-state survival analysis*, January 25th, 2024.
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Multi-state%20survival%20presentation/presentation.html)
 
-- *Introduction on causal inference*, March 6th, 2024.
+- Stat4Plant: *Introduction on causal inference*, March 6th, 2024.
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Causal_inference_INRAE.pdf)
 
-- *Estimation of Average Treatment Effect in Causal Survival Analysis*, March 6th, 2024.
+- JdS 2024: *Estimation of Average Treatment Effect in Causal Survival Analysis*, March 6th, 2024.
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/assets/files/Talks/Causal_survival_analysis_JdS.pdf)
