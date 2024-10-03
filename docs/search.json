@@ -30,8 +30,22 @@
   {
     "objectID": "presentations/index.html",
     "href": "presentations/index.html",
-    "title": "Presentations",
+    "title": "Presentations & Posters",
     "section": "",
-    "text": "Notebook on survival analysis, October 6th, 2023.\nNotebook\nIntroduction on multi-state survival analysis, January 25th, 2024. Slides\nStat4Plant: Introduction on causal inference, March 6th, 2024. Slides\nJdS 2024: Estimation of Average Treatment Effect in Causal Survival Analysis, March 6th, 2024. Slides. To have a more recent version, please refer to the below presentations.\nPresentation to SODA team in INRIA Saclay: Estimation of Average Treatment Effect in Causal Survival Analysis, August 26th, 2024. Slides\n\n\nI want to know more about the PreMeDICaL Team"
+    "text": "Notebook on survival analysis, October 6th, 2023.\nNotebook\nIntroduction on multi-state survival analysis, January 25th, 2024. Slides\nStat4Plant: Introduction on causal inference, March 6th, 2024. Slides\nJdS 2024: Estimation of Average Treatment Effect in Causal Survival Analysis, March 6th, 2024. Slides. To have a more recent version, please refer to the below presentations.\nPresentation to SODA team in INRIA Saclay: Estimation of Average Treatment Effect in Causal Survival Analysis, August 26th, 2024. Slides"
+  },
+  {
+    "objectID": "presentations/index.html#oral-presentations",
+    "href": "presentations/index.html#oral-presentations",
+    "title": "Presentations & Posters",
+    "section": "",
+    "text": "Notebook on survival analysis, October 6th, 2023.\nNotebook\nIntroduction on multi-state survival analysis, January 25th, 2024. Slides\nStat4Plant: Introduction on causal inference, March 6th, 2024. Slides\nJdS 2024: Estimation of Average Treatment Effect in Causal Survival Analysis, March 6th, 2024. Slides. To have a more recent version, please refer to the below presentations.\nPresentation to SODA team in INRIA Saclay: Estimation of Average Treatment Effect in Causal Survival Analysis, August 26th, 2024. Slides"
+  },
+  {
+    "objectID": "presentations/index.html#posters",
+    "href": "presentations/index.html#posters",
+    "title": "Presentations & Posters",
+    "section": "Posters",
+    "text": "Posters\n\nISCB 2024 in Thessaloniki: Estimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations, July 22nd, 2024. Poster\n\n\nI want to know more about the PreMeDICaL Team"
   }
 ]
