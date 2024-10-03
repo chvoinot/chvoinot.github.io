@@ -1,0 +1,63 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/profil.jpeg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/chvoinot/
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/charlotte-voinot
+    - icon: envelope
+      text: Email
+      href: "mailto:charlotte.voinot@sanofi.com"  
+---
+
+::: {#about-block}
+:::
+
+# Hello, welcome to my website!
+
+I am Charlotte Voinot, second year PhD student at [INRIA](https://www.inria.fr/en) in [PreMeDICaL](https://team.inria.fr/premedical/) Team and at [Sanofi R&D](https://www.sanofi.com/en), Data and Data science.
+I am supervised by [Dr Julie Josse](https://juliejosse.com/), from INRIA, and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) from ‘Data, Data Science’ department of Sanofi R&D.
+My research project is on causal inference in the context of time to event/survival analysis for health-related topics.
+Feel free to explore these pages to find out more about my background, skills and the projects I’m working on.
+
+Feel free to browse through these pages to learn more about my background, skills, and the projects I'm currently working on. You can also [contact me](mailto:charlotte.voinot@sanofi.com) if you have any questions or would like to discuss potential collaborations.
+
+# Education 
+
+I graduated from [AgroParisTech](https://www.agroparistech.fr/en) in France and hold a dual degree in Bioinformatics at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/).  
+I gained experience working as biostatistician in various C.R.O (Contract research organization) companies that provides support to the pharmaceutical, biotechnology, and medical device industries for nearly 2 years before starting a PhD in April 2023.  
+
+
+# News
+
+- I presented my new work on [causal survival](https://chvoinot.github.io/presentations/) in INRIA Saclay to SODA team (this is a more complete version of JdS2024 [powerpoint](https://chvoinot.github.io/presentations/)).
+- I am the newly appointed treasurer of the Young Statisticians Group ! 
+- I presented part of my PhD project in JdS2024 ([powerpoint](https://chvoinot.github.io/presentations/)) 
+- I presented an [introduction presentation](https://chvoinot.github.io/presentations/) on causal inference at the Stat4Plant meeting in INRAE.
+- Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model   
+- Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis
+
+
+# Community 
+
+- I am treasurer and member of the Young Statisticians Group of the French Statistical Society (SFdS).
+We have organized several events during JdS 2024 and we will organize soon the 13th Young Statisticians and Probabilists day.
+
+- Take a moment to explore the work of our team focused on causal inference and missing values at INRIA. This group is led by Julie Josse, who serves as the principal investigator of the PreMeDICaL team. You can find more information about our activities [here](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html).
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://team.inria.fr/premedical/" role="button" target="_blank" style="padding: 15px 30px;">I want to know more about the PreMeDICaL Team</a>
+</div>
+```
+

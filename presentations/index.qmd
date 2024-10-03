@@ -1,0 +1,24 @@
+---
+title: "Presentations"
+---
+
+- *Notebook on survival analysis*, October 6th, 2023.  
+[Notebook](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/presentations/Survival%20presentation/Survival_analysis.html)
+
+- *Introduction on multi-state survival analysis*, January 25th, 2024.
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/presentations/Multi-state%20survival%20presentation/presentation.html)
+
+- Stat4Plant: *Introduction on causal inference*, March 6th, 2024.
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/presentations/Causal_inference_INRAE.pdf)
+
+- JdS 2024: *Estimation of Average Treatment Effect in Causal Survival Analysis*, March 6th, 2024.
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/presentations/Causal_survival_analysis_JdS.pdf). To have a more recent version, please refer to the below presentations.
+
+- Presentation to SODA team in INRIA Saclay: *Estimation of Average Treatment Effect in Causal Survival Analysis*, August 26th, 2024.
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/master/presentations/Causal_survival_analysis_INRIA_Saclay.pdf)
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://team.inria.fr/premedical/" role="button" target="_blank" style="padding: 15px 30px;">I want to know more about the PreMeDICaL Team</a>
+</div>
+```

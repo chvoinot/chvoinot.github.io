@@ -1,0 +1,26 @@
+---
+title: Projects
+---
+
+## Under review: Estimation of the Average Treatment Effect in Causal Survival Analysis: Practical Recommendations
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+
+<a href="" target="_blank">arXiv Preprint</a> | <a href="https://github.com/chvoinot/Simple_simulation_causal_survival" target="_blank">Code</a><br> 
+
+This article explores causal survival analysis, which combines causal
+inference and survival analysis to assess the effect of a treatment on
+time-to-event outcomes in the presence of censoring. Specifically, we
+focus on estimating the ATE for time-to-event data with static treatment
+assignment, baseline covariates, and right-censoring.
+
+----
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://team.inria.fr/premedical/" role="button" target="_blank" style="padding: 15px 30px;">I want to know more about the PreMeDICaL Team</a>
+</div>
+```

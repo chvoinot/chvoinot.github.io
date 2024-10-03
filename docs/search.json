@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\n\n\nI want to know more about the PreMeDICaL Team"
+  },
+  {
+    "objectID": "projects/index.html#under-review-estimation-of-the-average-treatment-effect-in-causal-survival-analysis-practical-recommendations",
+    "href": "projects/index.html#under-review-estimation-of-the-average-treatment-effect-in-causal-survival-analysis-practical-recommendations",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\n\n\nI want to know more about the PreMeDICaL Team"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, welcome to my website!",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nHello, welcome to my website!\nI am Charlotte Voinot, second year PhD student at INRIA in PreMeDICaL Team and at Sanofi R&D, Data and Data science. I am supervised by Dr Julie Josse, from INRIA, and Dr Bernard Sebastien from ‘Data, Data Science’ department of Sanofi R&D. My research project is on causal inference in the context of time to event/survival analysis for health-related topics. Feel free to explore these pages to find out more about my background, skills and the projects I’m working on.\nFeel free to browse through these pages to learn more about my background, skills, and the projects I’m currently working on. You can also contact me if you have any questions or would like to discuss potential collaborations.\n\n\nEducation\nI graduated from AgroParisTech in France and hold a dual degree in Bioinformatics at Paris-Saclay University.\nI gained experience working as biostatistician in various C.R.O (Contract research organization) companies that provides support to the pharmaceutical, biotechnology, and medical device industries for nearly 2 years before starting a PhD in April 2023.\n\n\nNews\n\nI presented my new work on causal survival in INRIA Saclay to SODA team (this is a more complete version of JdS2024 powerpoint).\nI am the newly appointed treasurer of the Young Statisticians Group !\nI presented part of my PhD project in JdS2024 (powerpoint)\nI presented an introduction presentation on causal inference at the Stat4Plant meeting in INRAE.\nReleased notebook on survival estimators to simple survival model\n\nReleased slides on introduction to multi-state survival analysis\n\n\n\nCommunity\n\nI am treasurer and member of the Young Statisticians Group of the French Statistical Society (SFdS). We have organized several events during JdS 2024 and we will organize soon the 13th Young Statisticians and Probabilists day.\nTake a moment to explore the work of our team focused on causal inference and missing values at INRIA. This group is led by Julie Josse, who serves as the principal investigator of the PreMeDICaL team. You can find more information about our activities here.\n\n\nI want to know more about the PreMeDICaL Team"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nI want to know more about the PreMeDICaL Team"
+  },
+  {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Notebook on survival analysis, October 6th, 2023.\nNotebook\nIntroduction on multi-state survival analysis, January 25th, 2024. Slides\nStat4Plant: Introduction on causal inference, March 6th, 2024. Slides\nJdS 2024: Estimation of Average Treatment Effect in Causal Survival Analysis, March 6th, 2024. Slides. To have a more recent version, please refer to the below presentations.\nPresentation to SODA team in INRIA Saclay: Estimation of Average Treatment Effect in Causal Survival Analysis, August 26th, 2024. Slides\n\n\nI want to know more about the PreMeDICaL Team"
+  }
+]
