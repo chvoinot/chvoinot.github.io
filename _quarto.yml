@@ -1,5 +1,7 @@
 # This file controls the settings for your Quarto template from www.marvinschmitt.com
-
+project:
+  type: website
+  output-dir: docs
 # website settings
 website:
   title: "Charlotte Voinot"                                # Your name

@@ -5,7 +5,7 @@ excerpt: My current CV
 execute:
   freeze: true  # never re-render during project render
 engine: knitr 
-resources:
+resources: 
   - "CV_CharlotteV_2024_01.pdf"
 cv:
   pdf: "CV_CharlotteV_2024_01.pdf"
