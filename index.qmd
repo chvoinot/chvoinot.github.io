@@ -39,7 +39,8 @@ I gained experience working as biostatistician in various C.R.O (Contract resear
 # News
 
 - I presented my new work on [causal survival](https://chvoinot.github.io/presentations/) in INRIA Saclay to SODA team (this is a more complete version of JdS2024 [powerpoint](https://chvoinot.github.io/presentations/)).
-- I am the newly appointed treasurer of the Young Statisticians Group ! 
+- I presented a poster on [causal survival](https://chvoinot.github.io/presentations/) at ISCB 2024.
+- I am the newly appointed treasurer of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of SFdS (French Society of Statistics) ! 
 - I presented part of my PhD project in JdS2024 ([powerpoint](https://chvoinot.github.io/presentations/)) 
 - I presented an [introduction presentation](https://chvoinot.github.io/presentations/) on causal inference at the Stat4Plant meeting in INRAE.
 - Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model   
