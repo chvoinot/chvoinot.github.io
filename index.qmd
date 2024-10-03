@@ -4,15 +4,12 @@ about:
   id: about-block
   image: "img/profil.jpeg"
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/MarvinSchmittML
     - icon: github
       text: Github
       href: https://github.com/chvoinot/
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/charlotte-voinot
+      href: https://www.linkedin.com/in/charlotte-voinot/
     - icon: envelope
       text: Email
       href: "mailto:charlotte.voinot@sanofi.com"  
