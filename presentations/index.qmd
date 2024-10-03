@@ -1,6 +1,8 @@
 ---
-title: "Presentations"
+title: "Presentations & Posters"
 ---
+
+## Oral presentations
 
 - *Notebook on survival analysis*, October 6th, 2023.  
 [Notebook](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Survival%20presentation/Survival_analysis.html)
@@ -16,6 +18,11 @@ title: "Presentations"
 
 - Presentation to SODA team in INRIA Saclay: *Estimation of Average Treatment Effect in Causal Survival Analysis*, August 26th, 2024.
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_survival_analysis_INRIA_Saclay.pdf)
+
+## Posters
+
+- ISCB 2024 in Thessaloniki: *Estimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations*, July 22nd, 2024.
+[Poster](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Poster_ISCB.pdf)
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
