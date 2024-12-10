@@ -19,6 +19,9 @@ title: "Presentations & Posters"
 - Presentation to SODA team in INRIA Saclay: *Estimation of Average Treatment Effect in Causal Survival Analysis*, August 26th, 2024.
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_survival_analysis_INRIA_Saclay.pdf)
 
+- Presentation at MECOSA day in INRIA Paris: *Causal Survival Analysis: Practical Recommendations*, November 25th, 2024. 
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Charlotte_Voinot_MECOSA.pdf)
+
 ## Posters
 
 - ISCB 2024 in Thessaloniki: *Estimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations*, July 22nd, 2024.
