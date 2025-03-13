@@ -4,7 +4,7 @@ title: Projects
 
 ## Under review: Estimation of the Average Treatment Effect in Causal Survival Analysis: Practical Recommendations
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2501.05836', 'blank');"/>
 
 
 <a href="https://arxiv.org/abs/2501.05836" target="_blank">arXiv Preprint</a> | <a href="https://github.com/Sanofi-Public/causal_survival_analysis" target="_blank">Code</a><br> 
