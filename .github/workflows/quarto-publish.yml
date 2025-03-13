@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main  # ou la branche sur laquelle ton site est hébergé
+    paths:
+      - "**.qmd" 
   workflow_dispatch:
 
 jobs:
