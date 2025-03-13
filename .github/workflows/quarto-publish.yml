@@ -26,6 +26,9 @@ jobs:
       - name: 🔨 Générer le site avec Quarto
         run: quarto render
 
+      - name: 🚫 Désactiver Jekyll
+        run: touch _site/.nojekyll
+
       - name: 🚀 Déployer sur GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
