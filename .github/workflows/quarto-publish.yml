@@ -1,0 +1,33 @@
+name: Render and Deploy Quarto Website
+
+on:
+  push:
+    branches:
+      - main  # ou la branche sur laquelle ton site est hébergé
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Cloner le dépôt
+        uses: actions/checkout@v3
+
+      - name: 🛠 Installer Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "latest"
+
+      - name: 📦 Installer Pandoc et les dépendances R (si nécessaire)
+        run: |
+          sudo apt-get install -y pandoc
+
+      - name: 🔨 Générer le site avec Quarto
+        run: quarto render
+
+      - name: 🚀 Déployer sur GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs  # Assurez-vous que la sortie est correcte
