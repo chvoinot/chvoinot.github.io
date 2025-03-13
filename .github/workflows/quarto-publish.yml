@@ -17,7 +17,7 @@ jobs:
       - name: 🛠 Installer Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: "latest"
+          version: "1.4.550"
 
       - name: 📦 Installer Pandoc et les dépendances R (si nécessaire)
         run: |
