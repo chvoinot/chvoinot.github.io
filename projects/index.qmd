@@ -1,5 +1,5 @@
 ---
-title: Project
+title: Projects
 ---
 
 ## Under review: Estimation of the Average Treatment Effect in Causal Survival Analysis: Practical Recommendations
