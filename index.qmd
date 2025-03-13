@@ -18,6 +18,7 @@ about:
 ::: {#about-block}
 :::
 
+
 # Hello, welcome to my website!
 
 I am Charlotte Voinot, second year PhD student at [INRIA](https://www.inria.fr/en) in [PreMeDICaL](https://team.inria.fr/premedical/) Team and at [Sanofi R&D](https://www.sanofi.com/en), Data and Data science.
