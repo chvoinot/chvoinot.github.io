@@ -50,9 +50,6 @@ project:
     watch-inputs: true
     navigate: true
 
-execute:
-  freeze: true
-
 format:
   html:
     fontsize: 1.1em
