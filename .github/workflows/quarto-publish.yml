@@ -41,3 +41,6 @@ jobs:
           publish_dir: ./_site
           publish_branch: gh-pages  # Déploiement sur gh-pages
           force_orphan: true  # Permet de recréer proprement la branche
+          
+      - name: 📂 Copy Static Assets (CSS, JS, Images)
+        run: cp -r styles/ _site/styles/ || true
