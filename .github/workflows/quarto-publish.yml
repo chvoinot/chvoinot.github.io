@@ -30,4 +30,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs  # Assurez-vous que la sortie est correcte
+          publish_dir: ./docs  # On pousse le dossier docs
+          publish_branch: gh-pages  # Déploiement sur gh-pages
+          force_orphan: true  # Permet de recréer proprement la branche
