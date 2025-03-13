@@ -20,7 +20,6 @@ about:
 
 # Hello, welcome to my website!
 
-test x5
 I am Charlotte Voinot, second year PhD student at [INRIA](https://www.inria.fr/en) in [PreMeDICaL](https://team.inria.fr/premedical/) Team and at [Sanofi R&D](https://www.sanofi.com/en), Data and Data science.
 I am supervised by [Dr Julie Josse](https://juliejosse.com/), from INRIA, and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) from ‘Data, Data Science’ department of Sanofi R&D.
 My research project is on causal inference in the context of time to event/survival analysis for health-related topics.
