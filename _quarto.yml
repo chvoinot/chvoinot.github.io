@@ -50,6 +50,10 @@ project:
     watch-inputs: true
     navigate: true
 
+execute:
+  freeze: auto  # Permet la régénération des pages modifiées
+
+
 format:
   html:
     fontsize: 1.1em
