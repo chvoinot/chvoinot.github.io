@@ -35,7 +35,7 @@ I gained experience working as biostatistician in various C.R.O (Contract resear
 
 # News
 
-- Slides to present my article available [here](https://chvoinot.github.io/presentations/)
+- Slides to present my article available [here](https://chvoinot.github.io/presentations/).
 - My first article on [Causal survival analysis, Estimation of the Average Treatment Effect (ATE): Practical Recommendations](https://arxiv.org/abs/2501.05836) is available on ArXiv !
 - I am very honored to have been able to present my work at the [MECOSA](https://www.linusbleistein.com/mecosa) day in INRIA Paris ([powerpoint](https://chvoinot.github.io/presentations/). 
 - I presented my new work on [causal survival](https://chvoinot.github.io/presentations/) in INRIA Saclay to SODA team (this is a more complete version of JdS2024 [powerpoint](https://chvoinot.github.io/presentations/)).
