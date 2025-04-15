@@ -22,10 +22,17 @@ title: "Presentations & Posters"
 - Presentation at MECOSA day in INRIA Paris: *Causal Survival Analysis: Practical Recommendations*, November 25th, 2024. 
 [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Charlotte_Voinot_MECOSA.pdf)
 
+- Presentation of my article: *Causal Survival Analysis: Practical Recommendations*, April 03rd, 2025. 
+[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Article1_presentation.pdf)
+
+
 ## Posters
 
 - ISCB 2024 in Thessaloniki: *Estimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations*, July 22nd, 2024.
 [Poster](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Poster_ISCB.pdf)
+
+- RnD week at Sanofi.
+
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
