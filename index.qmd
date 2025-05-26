@@ -38,11 +38,11 @@ I gained experience working as biostatistician in various C.R.O (Contract resear
 - I presented our article for the Causal FanClub available [here](https://chvoinot.github.io/presentations/).
 - Slides to present our article available [here](https://chvoinot.github.io/presentations/).
 - My first article on [Causal survival analysis, Estimation of the Average Treatment Effect (ATE): Practical Recommendations](https://arxiv.org/abs/2501.05836) is available on ArXiv !
-- I am very honored to have been able to present my work at the [MECOSA](https://www.linusbleistein.com/mecosa) day in INRIA Paris ([powerpoint](https://chvoinot.github.io/presentations/). 
+- I am very honored to have been able to present my work at the [MECOSA](https://www.linusbleistein.com/mecosa) day in INRIA Paris ([powerpoint](https://chvoinot.github.io/presentations/)). 
 - I presented my new work on [causal survival](https://chvoinot.github.io/presentations/) in INRIA Saclay to SODA team (this is a more complete version of JdS2024 [powerpoint](https://chvoinot.github.io/presentations/)).
 - I presented a poster on [causal survival](https://chvoinot.github.io/presentations/) at ISCB 2024.
 - I am the newly appointed treasurer of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of SFdS (French Society of Statistics) ! 
-- I presented part of my PhD project in JdS2024 ([powerpoint](https://chvoinot.github.io/presentations/)) 
+- I presented part of my PhD project in JdS2024 ([powerpoint](https://chvoinot.github.io/presentations/)).
 - I presented an [introduction presentation](https://chvoinot.github.io/presentations/) on causal inference at the Stat4Plant meeting in INRAE.
 
 
