@@ -76,9 +76,11 @@ Before starting my PhD in April 2023, I worked for nearly two years as a biostat
 
 # Community
 
+
 - **SFdS · [Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)**  
   I am treasurer and member of the Young Statisticians Group of the French Statistical Society (SFdS).  
   We organized several events during **JdS 2024**, **JdS 2025** and we have organized the **13th and 14th Young Statisticians and Probabilists Day**.
+
 
 - **Research group · Inria (PreMeDICaL / MissCausal)**  
   Take a moment to explore the work of our team focused on **causal inference** and **missing values** at Inria.  
