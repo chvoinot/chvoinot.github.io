@@ -7,11 +7,32 @@
     "text": "arXiv Preprint | HAL | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\nStatus: The project is complete and the manuscript has been submitted to Biometrical Journal."
   },
   {
-    "objectID": "projects/index.html#under-review-estimation-of-the-average-treatment-effect-in-causal-survival-analysis-practical-recommendations",
-    "href": "projects/index.html#under-review-estimation-of-the-average-treatment-effect-in-causal-survival-analysis-practical-recommendations",
+    "objectID": "projects/index.html#submitted-treatment-effect-estimation-in-causal-survival-analysis-practical-recommendations",
+    "href": "projects/index.html#submitted-treatment-effect-estimation-in-causal-survival-analysis-practical-recommendations",
     "title": "Projects",
     "section": "",
-    "text": "arXiv Preprint | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\n\n\nI want to know more about the PreMeDICaL Team"
+    "text": "arXiv Preprint | HAL | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\nStatus: The project is complete and the manuscript has been submitted to Biometrical Journal."
+  },
+  {
+    "objectID": "projects/index.html#in-preparation-submission-soon-causal-effect-of-treatment-duration-via-rmst-in-observational-data",
+    "href": "projects/index.html#in-preparation-submission-soon-causal-effect-of-treatment-duration-via-rmst-in-observational-data",
+    "title": "Projects",
+    "section": "In preparation (submission soon): Causal Effect of Treatment Duration via RMST in Observational Data",
+    "text": "In preparation (submission soon): Causal Effect of Treatment Duration via RMST in Observational Data\nThis ongoing work investigates the causal effect of treatment duration in real-world observational settings using Restricted Mean Survival Time (RMST) as the primary estimand.\nWe develop and compare approaches tailored to time-to-event outcomes with time-dependent treatment patterns and censoring, with the goal of providing practical guidance for applied analyses.\nStatus: manuscript in final preparation, submission planned soon."
+  },
+  {
+    "objectID": "projects/index.html#in-preparation-soon-formalizing-cloningcensoringweighting-ccw",
+    "href": "projects/index.html#in-preparation-soon-formalizing-cloningcensoringweighting-ccw",
+    "title": "Projects",
+    "section": "In preparation (soon): Formalizing cloning–censoring–weighting (CCW)",
+    "text": "In preparation (soon): Formalizing cloning–censoring–weighting (CCW)\nIn collaboration with Iqraa Meah, François Petit, and Clément Berenfeld, we are working on methodological and formal aspects of the cloning–censoring–weighting framework.\nThe objective is to clarify assumptions, define estimands and target trials precisely, and strengthen the theoretical foundations for causal inference on treatment strategies and durations in survival settings.\nStatus: ongoing."
+  },
+  {
+    "objectID": "projects/index.html#simulation-study-soon-variable-selection-in-causal-survival-analysis",
+    "href": "projects/index.html#simulation-study-soon-variable-selection-in-causal-survival-analysis",
+    "title": "Projects",
+    "section": "Simulation study (soon): Variable selection in causal survival analysis",
+    "text": "Simulation study (soon): Variable selection in causal survival analysis\nThis simulation project focuses on variable selection for causal effect estimation with time-to-event outcomes.\nWe evaluate the impact of selecting covariates for nuisance models (e.g., censoring and treatment models) on bias/variance trade-offs, robustness, and finite-sample performance across a range of realistic censoring and confounding scenarios.\nStatus: ongoing.\n\n\nI want to know more about the PreMeDICaL Team"
   },
   {
     "objectID": "index.html",
@@ -32,69 +53,20 @@
     "href": "presentations/index.html",
     "title": "Presentations & Posters",
     "section": "",
-    "text": "Aug 2025 — ISCB (Basel, Switzerland)\nCausal inference: mixed topics — oral presentation.\nSlides\nJun 2025 — JdS (Marseille, France)\nVariable selection for causal survival analysis — oral presentation.\nSlides\nMay 2025 — Causal FanClub (invited talk)\nEstimation of Average Treatment Effect in Causal Survival Analysis — oral presentation.\nSlides\nThis talk is the most complete version of an invited-talk series on the same topic:\n• Mar 2025 — EGDS @ Sanofi (invited talk) (earlier version)\n• Nov 2024 — MECOSA @ Inria Paris (invited talk) (initial version; event: MECOSA)\nMar 6, 2024 — Stat4Plant (INRAE)\nIntroduction on causal inference — invited talk.\nSlides\nJan 25, 2024\nIntroduction on multi-state survival analysis.\nSlides\nOct 6, 2023\nNotebook on survival analysis.\nNotebook"
+    "text": "Aug 2025 — ISCB (Basel, Switzerland)\nCausal inference: mixed topics — oral presentation.\nSlides\nJun 2025 — JdS (Marseille, France)\nVariable selection for causal survival analysis — oral presentation.\nSlides\nMay 2025 — Causal FanClub (invited talk)\nEstimation of Average Treatment Effect in Causal Survival Analysis — oral presentation.\nSlides\nThis talk is the most complete version of an invited-talk series on the same topic:\n• Mar 2025 — EGDS @ Sanofi (invited talk) (earlier version)\n• Nov 2024 — MECOSA @ Inria Paris (invited talk) (initial version; event: MECOSA)\nMar 6, 2024 — Stat4Plant (INRAE)\nIntroduction on causal inference — invited talk.\nSlides\nJan 25, 2024\nIntroduction on multi-state survival analysis.\nSlides\nOct 6, 2023\nNotebook on survival analysis.\nNotebook\nPresentation at MECOSA day in INRIA Paris: Causal Survival Analysis: Practical Recommendations, November 25th, 2024. Slides\nPresentation of my article: Causal Survival Analysis: Practical Recommendations, April 03rd, 2025. Slides"
   },
   {
     "objectID": "presentations/index.html#oral-presentations",
     "href": "presentations/index.html#oral-presentations",
     "title": "Presentations & Posters",
     "section": "",
-    "text": "Aug 2025 — ISCB (Basel, Switzerland)\nCausal inference: mixed topics — oral presentation.\nSlides\nJun 2025 — JdS (Marseille, France)\nVariable selection for causal survival analysis — oral presentation.\nSlides\nMay 2025 — Causal FanClub (invited talk)\nEstimation of Average Treatment Effect in Causal Survival Analysis — oral presentation.\nSlides\nThis talk is the most complete version of an invited-talk series on the same topic:\n• Mar 2025 — EGDS @ Sanofi (invited talk) (earlier version)\n• Nov 2024 — MECOSA @ Inria Paris (invited talk) (initial version; event: MECOSA)\nMar 6, 2024 — Stat4Plant (INRAE)\nIntroduction on causal inference — invited talk.\nSlides\nJan 25, 2024\nIntroduction on multi-state survival analysis.\nSlides\nOct 6, 2023\nNotebook on survival analysis.\nNotebook"
+    "text": "Aug 2025 — ISCB (Basel, Switzerland)\nCausal inference: mixed topics — oral presentation.\nSlides\nJun 2025 — JdS (Marseille, France)\nVariable selection for causal survival analysis — oral presentation.\nSlides\nMay 2025 — Causal FanClub (invited talk)\nEstimation of Average Treatment Effect in Causal Survival Analysis — oral presentation.\nSlides\nThis talk is the most complete version of an invited-talk series on the same topic:\n• Mar 2025 — EGDS @ Sanofi (invited talk) (earlier version)\n• Nov 2024 — MECOSA @ Inria Paris (invited talk) (initial version; event: MECOSA)\nMar 6, 2024 — Stat4Plant (INRAE)\nIntroduction on causal inference — invited talk.\nSlides\nJan 25, 2024\nIntroduction on multi-state survival analysis.\nSlides\nOct 6, 2023\nNotebook on survival analysis.\nNotebook\nPresentation at MECOSA day in INRIA Paris: Causal Survival Analysis: Practical Recommendations, November 25th, 2024. Slides\nPresentation of my article: Causal Survival Analysis: Practical Recommendations, April 03rd, 2025. Slides"
   },
   {
     "objectID": "presentations/index.html#posters",
     "href": "presentations/index.html#posters",
     "title": "Presentations & Posters",
     "section": "Posters",
-    "text": "Posters\n\nNov, 2024 & 2025 — RnD week Sanofi (Paris, France)\nJul 22, 2024 — ISCB (Thessaloniki, Greece)\nEstimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations.\nPoster\n\n\n Learn more about the PreMeDICaL Team"
-  },
-  {
-    "objectID": "projects/index.html#submitted-estimation-of-the-average-treatment-effect-in-causal-survival-analysis-practical-recommendations",
-    "href": "projects/index.html#submitted-estimation-of-the-average-treatment-effect-in-causal-survival-analysis-practical-recommendations",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | HAL | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\nStatus: The project is complete and the manuscript has been submitted to Biometrical Journal."
-  },
-  {
-    "objectID": "projects/index.html#in-preparation-submission-soon-causal-effect-of-treatment-duration-via-rmst-in-observational-data",
-    "href": "projects/index.html#in-preparation-submission-soon-causal-effect-of-treatment-duration-via-rmst-in-observational-data",
-    "title": "Projects",
-    "section": "In preparation (submission soon): Causal Effect of Treatment Duration via RMST in Observational Data",
-    "text": "In preparation (submission soon): Causal Effect of Treatment Duration via RMST in Observational Data\nThis ongoing work investigates the causal effect of treatment duration in real-world observational settings using Restricted Mean Survival Time (RMST) as the primary estimand.\nWe develop and compare approaches tailored to time-to-event outcomes with time-dependent treatment patterns and censoring, with the goal of providing practical guidance for applied analyses.\nStatus: manuscript in final preparation, submission planned soon."
-  },
-  {
-    "objectID": "projects/index.html#ongoing-collaboration-formalizing-cloningcensoringweighting-ccw",
-    "href": "projects/index.html#ongoing-collaboration-formalizing-cloningcensoringweighting-ccw",
-    "title": "Projects",
-    "section": "Ongoing collaboration: Formalizing cloning–censoring–weighting (CCW)",
-    "text": "Ongoing collaboration: Formalizing cloning–censoring–weighting (CCW)\nIn collaboration with Iqraa Meah, François Petit, and Clément Berenfeld, we are working on methodological and formal aspects of the cloning–censoring–weighting framework.\nThe objective is to clarify assumptions, define estimands and target trials precisely, and strengthen the theoretical foundations for causal inference on treatment strategies and durations in survival settings.\nStatus: ongoing."
-  },
-  {
-    "objectID": "projects/index.html#simulation-study-variable-selection-in-causal-survival-analysis",
-    "href": "projects/index.html#simulation-study-variable-selection-in-causal-survival-analysis",
-    "title": "Projects",
-    "section": "Simulation study: Variable selection in causal survival analysis",
-    "text": "Simulation study: Variable selection in causal survival analysis\nThis simulation project focuses on variable selection for causal effect estimation with time-to-event outcomes.\nWe evaluate the impact of selecting covariates for nuisance models (e.g., censoring and treatment models) on bias/variance trade-offs, robustness, and finite-sample performance across a range of realistic censoring and confounding scenarios.\nStatus: ongoing.\n\n\nI want to know more about the PreMeDICaL Team"
-  },
-  {
-    "objectID": "projects/index.html#submitted-treatment-effect-estimation-in-causal-survival-analysis-practical-recommendations",
-    "href": "projects/index.html#submitted-treatment-effect-estimation-in-causal-survival-analysis-practical-recommendations",
-    "title": "Projects",
-    "section": "",
-    "text": "arXiv Preprint | HAL | Code\nThis article explores causal survival analysis, which combines causal inference and survival analysis to assess the effect of a treatment on time-to-event outcomes in the presence of censoring. Specifically, we focus on estimating the ATE for time-to-event data with static treatment assignment, baseline covariates, and right-censoring.\nStatus: The project is complete and the manuscript has been submitted to Biometrical Journal."
-  },
-  {
-    "objectID": "projects/index.html#in-preparation-soon-formalizing-cloningcensoringweighting-ccw",
-    "href": "projects/index.html#in-preparation-soon-formalizing-cloningcensoringweighting-ccw",
-    "title": "Projects",
-    "section": "In preparation (soon): Formalizing cloning–censoring–weighting (CCW)",
-    "text": "In preparation (soon): Formalizing cloning–censoring–weighting (CCW)\nIn collaboration with Iqraa Meah, François Petit, and Clément Berenfeld, we are working on methodological and formal aspects of the cloning–censoring–weighting framework.\nThe objective is to clarify assumptions, define estimands and target trials precisely, and strengthen the theoretical foundations for causal inference on treatment strategies and durations in survival settings.\nStatus: ongoing."
-  },
-  {
-    "objectID": "projects/index.html#simulation-study-soon-variable-selection-in-causal-survival-analysis",
-    "href": "projects/index.html#simulation-study-soon-variable-selection-in-causal-survival-analysis",
-    "title": "Projects",
-    "section": "Simulation study (soon): Variable selection in causal survival analysis",
-    "text": "Simulation study (soon): Variable selection in causal survival analysis\nThis simulation project focuses on variable selection for causal effect estimation with time-to-event outcomes.\nWe evaluate the impact of selecting covariates for nuisance models (e.g., censoring and treatment models) on bias/variance trade-offs, robustness, and finite-sample performance across a range of realistic censoring and confounding scenarios.\nStatus: ongoing.\n\n\nI want to know more about the PreMeDICaL Team"
+    "text": "Posters\n\nNov, 2024 & 2025 — RnD week Sanofi (Paris, France)\nJul 22, 2024 — ISCB (Thessaloniki, Greece)\nEstimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations.\nPoster\n\n\n  \n    Learn more about the PreMeDICaL Team"
   }
 ]
