@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/charlotte-voinot/
     - icon: envelope
       text: Email
-      href: "mailto:charlotte.voinot@sanofi.com"  
+      href: "mailto:ch.voinot@laposte.net"  
 ---
 
 ::: {#about-block}
@@ -20,42 +20,79 @@ about:
 
 # Hello, welcome to my website!
 
-I am Charlotte Voinot, second year PhD student at [INRIA](https://www.inria.fr/en) in [PreMeDICaL](https://team.inria.fr/premedical/) Team and at [Sanofi R&D](https://www.sanofi.com/en), Data and Data science.
-I am supervised by [Dr Julie Josse](https://juliejosse.com/), from INRIA, and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) from ‘Data, Data Science’ department of Sanofi R&D.
-My research project is on causal inference in the context of time to event/survival analysis for health-related topics.
-Feel free to explore these pages to find out more about my background, skills and the projects I’m working on.
+I am Charlotte Voinot, a third (and last) year PhD student at [Inria](https://www.inria.fr/en) in the [PreMeDICaL](https://team.inria.fr/premedical/) team and at [Sanofi R&D](https://www.sanofi.com/en) (Data & Data Science).
+I am supervised by [Dr Julie Josse](https://juliejosse.com/) (Inria) and [Dr Bernard Sebastien](https://www.linkedin.com/in/bernard-sebastien-b355a250/) (Sanofi R&D).
 
-Feel free to browse through these pages to learn more about my background, skills, and the projects I'm currently working on. You can also [contact me](mailto:charlotte.voinot@sanofi.com) if you have any questions or would like to discuss potential collaborations.
+My research focuses on **causal inference for time-to-event (survival) data**, with applications to health-related questions.
 
-# Education 
+Feel free to explore the website to learn more about my background, skills, and current projects.  
+You can also [contact me](mailto:ch.voinot@laposte.net) if you have any questions or would like to discuss potential collaborations.
 
-I graduated from [AgroParisTech](https://www.agroparistech.fr/en) in France and hold a dual degree in Bioinformatics at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/).  
-I gained experience working as biostatistician in various C.R.O (Contract research organization) companies that provides support to the pharmaceutical, biotechnology, and medical device industries for nearly 2 years before starting a PhD in April 2023.  
+# Education
 
+I graduated from [AgroParisTech](https://www.agroparistech.fr/en) (France) and hold a dual master degree in Bioinformatics from [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/).  
+Before starting my PhD in April 2023, I worked for nearly two years as a biostatistician in several CROs (Contract Research Organizations), supporting pharmaceutical, biotechnology, and medical device projects.
 
 # News
 
-- I presented my new work on [causal survival](https://chvoinot.github.io/presentations/) in INRIA Saclay to SODA team (this is a more complete version of JdS2024 [powerpoint](https://chvoinot.github.io/presentations/)).
-- I presented a poster on [causal survival](https://chvoinot.github.io/presentations/) at ISCB 2024.
-- I am the newly appointed treasurer of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) of SFdS (French Society of Statistics) ! 
-- I presented part of my PhD project in JdS2024 ([powerpoint](https://chvoinot.github.io/presentations/)) 
-- I presented an [introduction presentation](https://chvoinot.github.io/presentations/) on causal inference at the Stat4Plant meeting in INRAE.
-- Released [notebook](https://chvoinot.github.io/presentations/) on survival estimators to simple survival model   
-- Released [slides](https://chvoinot.github.io/presentations/) on introduction to multi-state survival analysis
+- **Aug 2025 — ISCB (Basel, Switzerland) · Oral presentation**  
+  Presented our project on **target trial emulation** in the *Causal inference: mixed topics* session.  
+  → Slides: [presentation](https://chvoinot.github.io/presentations/)
+
+- **Jun 2025 — JdS (Marseille, France) · Oral presentation**  
+  Presented our project on **variable selection**.  
+  → Slides: [presentation](https://chvoinot.github.io/presentations/)
+  
+- **Invited talk trajectory · Causal survival (from first presentation to last results)**  
+  Same research line, presented multiple times as it matured through **community feedback and iterative improvements**.  
+  - **May 2025 — Causal FanClub** · most mature [presentation](https://chvoinot.github.io/presentations/) (new results + tighter messaging)  
+  - **Mar 2025 — EGDS @ Sanofi** · substantial update over MECOSA  
+  - **Nov 2024 — MECOSA @ Inria Paris** · early version  
+    → [MECOSA](https://www.linusbleistein.com/mecosa)
+    
+- **Aug 2024 — Inria Saclay (SODA team) · Research talk**  
+  Presented my **latest work on causal survival** (extended version of my JdS2024 talk).  
+
+- **Aug 2024 — ISCB (Thessaloniki, Greece) · Poster**  
+  Presented a poster on **causal survival**.  
+  → Material: [poster/slides](https://chvoinot.github.io/presentations/)
+
+- **May 2024 — JdS 2024 · Oral presentation**  
+  Presented part of my PhD project.  
+
+- **Mar 2024 — Stat4Plant (INRAE) · Invited Talk**  
+  Gave an **introductory presentation** on causal inference.  
+  → Slides: [presentation](https://chvoinot.github.io/presentations/)
+
+- **2024 — Resource**  
+  Released a [notebook](https://chvoinot.github.io/presentations/) on survival estimators (simple survival setting).
+
+- **2024 — Resource**  
+  Released [slides](https://chvoinot.github.io/presentations/) introducing multi-state survival analysis.
+
+- **2024 — Service**  
+  Newly appointed treasurer of the [Young Statisticians Group](https://www.sfds.asso.fr/en/jeunes_statisticiens/468-les_jeunes_statisticiens/) (SFdS).
 
 
-# Community 
+# Community
 
-- I am treasurer and member of the Young Statisticians Group of the French Statistical Society (SFdS).
-We have organized several events during JdS 2024 and we will organize soon the 13th Young Statisticians and Probabilists day.
+- **SFdS · [Young Statisticians Group](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)**  
+  I am treasurer and member of the Young Statisticians Group of the French Statistical Society (SFdS).  
+  We organized several events during **JdS 2024**, **JdS 2025** and we have organized the **13th and 14th Young Statisticians and Probabilists Day**.
 
-- Take a moment to explore the work of our team focused on causal inference and missing values at INRIA. This group is led by Julie Josse, who serves as the principal investigator of the PreMeDICaL team. You can find more information about our activities [here](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html).
-
+- **Research group · Inria (PreMeDICaL / MissCausal)**  
+  Take a moment to explore the work of our team focused on **causal inference** and **missing values** at Inria.  
+  This group is led by **Julie Josse** (PI of the PreMeDICaL team).  
+  → More information: [MissCausal team website](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html)
 
 
 ```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://team.inria.fr/premedical/" role="button" target="_blank" style="padding: 15px 30px;">I want to know more about the PreMeDICaL Team</a>
+<div style="margin: 34px 0; text-align: center;">
+  <a class="btn btn-primary"
+     href="https://team.inria.fr/premedical/"
+     role="button"
+     target="_blank"
+     style="padding: 14px 28px; border-radius: 999px;">
+    Learn more about the PreMeDICaL Team
+  </a>
 </div>
-```
-

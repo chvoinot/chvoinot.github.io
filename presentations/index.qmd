@@ -4,28 +4,48 @@ title: "Presentations & Posters"
 
 ## Oral presentations
 
-- *Notebook on survival analysis*, October 6th, 2023.  
-[Notebook](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Survival%20presentation/Survival_analysis.html)
+- **Aug 2025 — ISCB (Basel, Switzerland)**  
+  *Causal inference: mixed topics* — **oral presentation**.  
+  [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/ISCB_2025_Basel_Causal_Inference.pdf)
 
-- *Introduction on multi-state survival analysis*, January 25th, 2024.
-[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Multi-state%20survival%20presentation/presentation.html)
+- **Jun 2025 — JdS (Marseille, France)**  
+  *Variable selection for causal survival analysis* — **oral presentation**.  
+  [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/JdS_2025_Marseille_Variable_Selection.pdf)
+  
+- **May 2025 — Causal FanClub (invited talk)**  
+  *Estimation of Average Treatment Effect in Causal Survival Analysis* — **oral presentation**.  
+  [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_FanClub_2025.pdf)  
+  <small>This talk is the **most complete version** of an invited-talk series on the same topic:</small>  
+  <small>• **Mar 2025 — EGDS @ Sanofi (invited talk)** (earlier version)</small>  
+  <small>• **Nov 2024 — MECOSA @ Inria Paris (invited talk)** (initial version; event: [MECOSA](https://www.linusbleistein.com/mecosa))</small>
+  
+- **Mar 6, 2024 — Stat4Plant (INRAE)**  
+  *Introduction on causal inference* — invited talk.  
+  [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_inference_INRAE.pdf)
 
-- Stat4Plant: *Introduction on causal inference*, March 6th, 2024.
-[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_inference_INRAE.pdf)
+- **Jan 25, 2024**  
+  *Introduction on multi-state survival analysis*.  
+  [Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Multi-state%20survival%20presentation/presentation.html)
 
-- JdS 2024: *Estimation of Average Treatment Effect in Causal Survival Analysis*, March 6th, 2024.
-[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_survival_analysis_JdS.pdf). To have a more recent version, please refer to the below presentations.
+- **Oct 6, 2023**  
+  *Notebook on survival analysis*.  
+  [Notebook](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Survival%20presentation/Survival_analysis.html)
 
-- Presentation to SODA team in INRIA Saclay: *Estimation of Average Treatment Effect in Causal Survival Analysis*, August 26th, 2024.
-[Slides](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Causal_survival_analysis_INRIA_Saclay.pdf)
 
 ## Posters
 
-- ISCB 2024 in Thessaloniki: *Estimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations*, July 22nd, 2024.
-[Poster](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Poster_ISCB.pdf)
+
+- **Nov, 2024 & 2025 — RnD week Sanofi (Paris, France)**  
+
+- **Jul 22, 2024 — ISCB (Thessaloniki, Greece)**  
+  *Estimation of Average Treatment Effect in Causal Survival Analysis: Practical recommendations*.  
+  [Poster](https://rawcdn.githack.com/chvoinot/chvoinot.github.io/main/presentations/Poster_ISCB.pdf)
+
+
 
 ```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://team.inria.fr/premedical/" role="button" target="_blank" style="padding: 15px 30px;">I want to know more about the PreMeDICaL Team</a>
+<div class="cta-wrap" style="margin: 36px 0; text-align: center;">
+  <a class="btn btn-primary" href="https://team.inria.fr/premedical/" role="button" target="_blank" style="padding: 14px 28px; border-radius: 999px;">
+    Learn more about the PreMeDICaL Team
+  </a>
 </div>
-```
