@@ -42,7 +42,7 @@ website:
 
 project:
   type: website
-  output-dir: docs
+  output-dir: _site  
 
   preview: 
     port: 22222
@@ -51,7 +51,8 @@ project:
     navigate: true
 
 execute:
-  freeze: true
+  freeze: auto  # Permet la régénération des pages modifiées
+
 
 format:
   html:
@@ -59,6 +60,7 @@ format:
     theme: 
       - pulse
       - html/styles.scss
+    css: styles.css
     toc: false
     code-link: true
     anchor-sections: true
